@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="settings">Einstellungen</string>
+    <string name="startgame">Starten</string>
+    <string name="darkTheme">Dark Theme:</string>
+
+  <string-array name="difficulty_array">
+    <item>Einfach</item>
+    <item>Mittel</item>
+    <item>Schwer</item>
+  </string-array>
+</resources>
