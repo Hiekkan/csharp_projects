@@ -40,15 +40,15 @@ I think this one is my first programming project ever. A Winforms application ab
 
 Console Application in a form of a text adventure. Inspired by the first text adventure game called "Colossal Cave Adventure" or "ADVENT". You can play it online here: [ADVENT](https://quuxplusone.github.io/Advent/play.html)
 
-My version is worse I admit it.
+My version is worse I admit it. Somehow Github doesn't show theses images. ¯\_(ツ)_/¯
 
-![Start Text](https://raw.githubusercontent.com/Hiekkan/csharp_projects/main/Screenshots/TextAd/StartText.png)
+![Start Text](https://github.com/Hiekkan/csharp_projects/blob/main/Screenshots/TextAd/StartText.png)
 
-![Choose Setting](https://raw.githubusercontent.com/Hiekkan/csharp_projects/main/Screenshots/TextAd/Choose.png)
+![Choose Setting](https://github.com/Hiekkan/csharp_projects/blob/main/Screenshots/TextAd/Choose.png)
 
-![First Choice](https://raw.githubusercontent.com/Hiekkan/csharp_projects/main/Screenshots/TextAd/FirstChoice.png)
+![First Choice](https://github.com/Hiekkan/csharp_projects/blob/main/Screenshots/TextAd/FirstChoice.png)
 
-![Second Choice](https://raw.githubusercontent.com/Hiekkan/csharp_projects/main/Screenshots/TextAd/SecondChoice.png)
+![Second Choice](https://github.com/Hiekkan/csharp_projects/blob/main/Screenshots/TextAd/SecondChoice.png)
 
 ## Tic Tac Toe
 
